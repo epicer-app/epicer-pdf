@@ -1,0 +1,13 @@
+yipt:
+  version: "1.0"
+  content:
+    - type: block
+      top: 0
+      left: 0
+      content:
+        - type: font
+          size: 32
+        - type: text
+          content: "{name}"
+          options:
+            align: center
